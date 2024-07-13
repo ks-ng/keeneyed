@@ -1,0 +1,1 @@
+clear; g++ $1 -o tst; ./tst; rm tst

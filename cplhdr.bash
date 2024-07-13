@@ -1,0 +1,1 @@
+clear; g++ keeneyed/$1.h; rm keeneyed/$1.h.gch
